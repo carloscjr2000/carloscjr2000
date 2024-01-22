@@ -1,6 +1,6 @@
 ### Olá Devs,Bem vindos(as)! 👋
 
-<p>💬 Meu nome é Carlos Campos,estou em transição de carreira para área desenvolvimento de Sistemas.</p> 
+<p>💬 Meu nome é Carlos Campos,estou em transição de carreira para a área de desenvolvimento de Sistemas.</p> 
 <p>🔭 Atualmente estagiando como FrontEnd!!</p>
 <p>🌱 Estou aprendendo Typescript, Javascript, Angular...</p>
 <p>📫 Meu contato : carloscamposjr@gmail.com</p>
