@@ -2,7 +2,7 @@
 
 <p>💬 Meu nome é Carlos Campos,estou em transição de carreira para a área de desenvolvimento de Sistemas.</p> 
 <p>🔭 Atualmente estagiando em  Back End!!</p>
-<p>🌱 Estou aprendendo Typescript, Javascript, Angular...</p>
+<p>🌱 Estou aprendendo Java,spring boot e Sql ,Typescript, Javascript, Angular...</p>
 <p>📫 Meu contato : carloscamposjr@gmail.com</p>
 
 <a href="https://www.linkedin.com/in/carloscamposjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
